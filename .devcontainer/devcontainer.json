@@ -1,5 +1,5 @@
 {
-  "name": "NodeJS Development Environment",
+  "name": "${containerEnv:HOST_PREFIX}",
   "dockerComposeFile": ["docker-compose.yml"],
   "service": "nodejs",
   "workspaceFolder": "/workspace",
