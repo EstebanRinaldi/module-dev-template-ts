@@ -55,7 +55,7 @@
         "bierner.markdown-preview-github-styles",
         // Todo Tree: Show TODO, FIXME, etc. comment tags in a tree view
         "Gruntfuggly.todo-tree",
-        // // Yarn commands for VSCode
+        // Yarn commands for VSCode
         "gamunu.vscode-yarn"
       ],
       // Set *default* container specific settings.json values on container create.
