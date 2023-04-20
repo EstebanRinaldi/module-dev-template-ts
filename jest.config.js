@@ -1,10 +1,9 @@
-/** @type {import('ts-jest').JestConfigWithTsJest} */
+// eslint-disable-next-line no-undef
 module.exports = {
-  preset: 'ts-jest',
   testEnvironment: 'node',
   collectCoverage: true,
   coverageDirectory: 'coverage',
   verbose: true,
-  collectCoverageFrom: ['src/**/*.{ts,tsx}'],
+  collectCoverageFrom: ['src/**/*.{ts,tsx,js,jsx}'],
   coveragePathIgnorePatterns: ['src/index.ts'],
 };
