@@ -21,7 +21,7 @@ Template for NodeJS module development with Typescript inside a VSCode Docker Co
 1. Run the **Remote-Containers: Reopen in Container...** command from the Command Palette (F1) or quick actions Status bar item.
 1. Install the dependencies.
 
-To return to the local project:
+### To return to the local project:
 - Run the **Remote-Containers: Reopen Locally...** command from the Command Palette (F1) or quick actions Status bar item.
 
 ## Development Container
