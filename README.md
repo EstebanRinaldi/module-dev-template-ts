@@ -33,7 +33,7 @@ The container includes NodeJS (check .env to change version), with pnpn and Yarn
 - [Typescript](https://www.typescriptlang.org/)
 - [Typedoc](https://typedoc.org/) for generating documentation from the ts source files.
 - [Jest](https://jestjs.io/) with [ts-jest](https://kulshekhar.github.io/ts-jest/) for testing.
-- [ESLint] for static code analysis.
+- [ESLint](https://eslint.org/) for static code analysis.
 
 ## Docker Services Included
 
